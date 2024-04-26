@@ -13,5 +13,5 @@ Another way to run:
 - If running on local machines, installation of following libraries required
 
 Libraries used:
-pandas
-re
+- pandas
+- re
